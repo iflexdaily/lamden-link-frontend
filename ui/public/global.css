@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+canvas {
+  display: block;
+}
+
+.web-app {
+  display: grid;
+  grid-template-columns: 5fr 3fr;
+}
